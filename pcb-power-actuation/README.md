@@ -27,5 +27,4 @@ power traces, pads of 1.8 mm or less.
 4. Connect Board 2
 
 ## Status
-[Designed / milled / assembled / tested]. Fuse and servo-header
-changes: [done / planned].
+Designed
