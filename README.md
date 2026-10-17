@@ -29,11 +29,6 @@ I led the mechanical design of the climbing platform.
 
 - Designed the passive five-bar adaptive linkage
 - Modeled the full SolidWorks assembly (45+ components)
-- Validated magnetic adhesion with an FEM simulation:
-  730 N available against about 252 N required
-
-![Five-bar linkage](Images/linkage.png)
-![FEM result](Images/fem-result.png)
 
 ## CDP II: new subsystems (each in its own folder)
 
