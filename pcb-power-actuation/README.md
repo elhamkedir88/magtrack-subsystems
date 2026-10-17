@@ -3,7 +3,7 @@
 Power distribution, safety interlock and actuation interface for MAGTRACK.
 Designed in EasyEDA for campus CNC milling.
 
-![PCB layout](Images/pcb-layout.png)
+![PCB layout](Images/pcb-layout2.png)
 
 ## What it does
 - 24 V input with 3 A fuse, TVS diode and bulk capacitor
