@@ -41,5 +41,5 @@ CDP II continues with fabrication and hardware testing.
 Results marked "planned" are test protocols that have not been run yet.
 
 ## Credits
-Team: [names]. Supervisor: [name].
-The logic board (Board 2) was designed by [teammate] and is not included here.
+MAGTRACK Team Members
+The logic board (Board 2) was designed by a teammate and is not included here.
